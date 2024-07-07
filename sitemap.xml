@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:2875/about/</loc>
+    <lastmod>2024-07-07T19:39:24+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:2875/</loc>
+    <lastmod>2024-07-07T19:39:24+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:2875/tags/hello-world/</loc>
+    <lastmod>2024-07-07T14:33:35+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:2875/posts/helloworld/</loc>
+    <lastmod>2024-07-07T14:33:35+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:2875/posts/</loc>
+    <lastmod>2024-07-07T14:33:35+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:2875/tags/</loc>
+    <lastmod>2024-07-07T14:33:35+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:2875/categories/</loc>
+  </url>
+</urlset>
