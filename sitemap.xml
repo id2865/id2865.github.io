@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:2875/about/</loc>
+    <loc>http://blog.ngxpm.xyz/about/</loc>
     <lastmod>2024-07-07T19:39:24+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:2875/</loc>
+    <loc>http://blog.ngxpm.xyz/</loc>
     <lastmod>2024-07-07T19:39:24+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:2875/tags/hello-world/</loc>
+    <loc>http://blog.ngxpm.xyz/tags/hello-world/</loc>
     <lastmod>2024-07-07T14:33:35+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:2875/posts/helloworld/</loc>
+    <loc>http://blog.ngxpm.xyz/posts/helloworld/</loc>
     <lastmod>2024-07-07T14:33:35+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:2875/posts/</loc>
+    <loc>http://blog.ngxpm.xyz/posts/</loc>
     <lastmod>2024-07-07T14:33:35+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:2875/tags/</loc>
+    <loc>http://blog.ngxpm.xyz/tags/</loc>
     <lastmod>2024-07-07T14:33:35+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:2875/categories/</loc>
+    <loc>http://blog.ngxpm.xyz/categories/</loc>
   </url>
 </urlset>
