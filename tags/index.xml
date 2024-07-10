@@ -6,8 +6,36 @@
     <description>Recent content in Tags on whoami</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 07 Jul 2024 14:33:35 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 20:22:05 +0800</lastBuildDate>
     <atom:link href="http://blog.ngxpm.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Systemd</title>
+      <link>http://blog.ngxpm.xyz/tags/systemd/</link>
+      <pubDate>Wed, 10 Jul 2024 20:22:05 +0800</pubDate>
+      <guid>http://blog.ngxpm.xyz/tags/systemd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wsl2</title>
+      <link>http://blog.ngxpm.xyz/tags/wsl2/</link>
+      <pubDate>Wed, 10 Jul 2024 20:22:05 +0800</pubDate>
+      <guid>http://blog.ngxpm.xyz/tags/wsl2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>桥接</title>
+      <link>http://blog.ngxpm.xyz/tags/%E6%A1%A5%E6%8E%A5/</link>
+      <pubDate>Wed, 10 Jul 2024 20:22:05 +0800</pubDate>
+      <guid>http://blog.ngxpm.xyz/tags/%E6%A1%A5%E6%8E%A5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>中文</title>
+      <link>http://blog.ngxpm.xyz/tags/%E4%B8%AD%E6%96%87/</link>
+      <pubDate>Wed, 10 Jul 2024 20:22:05 +0800</pubDate>
+      <guid>http://blog.ngxpm.xyz/tags/%E4%B8%AD%E6%96%87/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Hello World</title>
       <link>http://blog.ngxpm.xyz/tags/hello-world/</link>

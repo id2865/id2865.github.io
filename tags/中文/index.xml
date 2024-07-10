@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>whoami</title>
-    <link>http://blog.ngxpm.xyz/</link>
-    <description>Recent content on whoami</description>
+    <title>中文 on whoami</title>
+    <link>http://blog.ngxpm.xyz/tags/%E4%B8%AD%E6%96%87/</link>
+    <description>Recent content in 中文 on whoami</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 10 Jul 2024 20:22:05 +0800</lastBuildDate>
-    <atom:link href="http://blog.ngxpm.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.ngxpm.xyz/tags/%E4%B8%AD%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wsl2配置笔记</title>
       <link>http://blog.ngxpm.xyz/posts/wsl2%E9%85%8D%E7%BD%AE%E7%AC%94%E8%AE%B0/</link>
       <pubDate>Wed, 10 Jul 2024 20:22:05 +0800</pubDate>
       <guid>http://blog.ngxpm.xyz/posts/wsl2%E9%85%8D%E7%BD%AE%E7%AC%94%E8%AE%B0/</guid>
       <description>桥接网络 🔗hyperV管理器中增加一个虚拟交换机 youBridgeNmae 桥接到需桥接的外部网卡上，用文本编辑器打开 %USERPROFILE%\\wslconfig 文件或者用gvim的 e ~/wslconfig 打开wslconfig</description>
-    </item>
-    <item>
-      <title>Helloworld</title>
-      <link>http://blog.ngxpm.xyz/posts/helloworld/</link>
-      <pubDate>Sun, 07 Jul 2024 14:33:35 +0800</pubDate>
-      <guid>http://blog.ngxpm.xyz/posts/helloworld/</guid>
-      <description>HelloWorld 🔗echo &amp;#39;Hello World!!!!!!!!!!!!!!&amp;#39; </description>
     </item>
   </channel>
 </rss>

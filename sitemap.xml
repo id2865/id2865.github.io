@@ -2,22 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://blog.ngxpm.xyz/about/</loc>
-    <lastmod>2024-07-07T19:39:24+08:00</lastmod>
+    <loc>http://blog.ngxpm.xyz/posts/</loc>
+    <lastmod>2024-07-10T20:22:05+08:00</lastmod>
+  </url><url>
+    <loc>http://blog.ngxpm.xyz/tags/systemd/</loc>
+    <lastmod>2024-07-10T20:22:05+08:00</lastmod>
+  </url><url>
+    <loc>http://blog.ngxpm.xyz/tags/</loc>
+    <lastmod>2024-07-10T20:22:05+08:00</lastmod>
   </url><url>
     <loc>http://blog.ngxpm.xyz/</loc>
+    <lastmod>2024-07-10T20:22:05+08:00</lastmod>
+  </url><url>
+    <loc>http://blog.ngxpm.xyz/tags/wsl2/</loc>
+    <lastmod>2024-07-10T20:22:05+08:00</lastmod>
+  </url><url>
+    <loc>http://blog.ngxpm.xyz/posts/wsl2%E9%85%8D%E7%BD%AE%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2024-07-10T20:22:05+08:00</lastmod>
+  </url><url>
+    <loc>http://blog.ngxpm.xyz/tags/%E6%A1%A5%E6%8E%A5/</loc>
+    <lastmod>2024-07-10T20:22:05+08:00</lastmod>
+  </url><url>
+    <loc>http://blog.ngxpm.xyz/tags/%E4%B8%AD%E6%96%87/</loc>
+    <lastmod>2024-07-10T20:22:05+08:00</lastmod>
+  </url><url>
+    <loc>http://blog.ngxpm.xyz/about/</loc>
     <lastmod>2024-07-07T19:39:24+08:00</lastmod>
   </url><url>
     <loc>http://blog.ngxpm.xyz/tags/hello-world/</loc>
     <lastmod>2024-07-07T14:33:35+08:00</lastmod>
   </url><url>
     <loc>http://blog.ngxpm.xyz/posts/helloworld/</loc>
-    <lastmod>2024-07-07T14:33:35+08:00</lastmod>
-  </url><url>
-    <loc>http://blog.ngxpm.xyz/posts/</loc>
-    <lastmod>2024-07-07T14:33:35+08:00</lastmod>
-  </url><url>
-    <loc>http://blog.ngxpm.xyz/tags/</loc>
     <lastmod>2024-07-07T14:33:35+08:00</lastmod>
   </url><url>
     <loc>http://blog.ngxpm.xyz/categories/</loc>
